@@ -1,6 +1,6 @@
 In order to prepare for the workshop please prepare the following:
 
-An installation of Anaconda (3.6)
+<a href="https://www.continuum.io/downloads">An installation of Anaconda (3.6)</a>
 
 In order test the installation do the following:
 
